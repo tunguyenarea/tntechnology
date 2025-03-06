@@ -5,7 +5,7 @@ import { BackgroundLines } from '@/components/ui/background-lines';
 import { TextGenerateEffect } from '@/components/ui/text-generate';
 import Link from 'next/link';
 
-const words = `We use digital technology and AI to support business growth through high quality system development.`;
+const words = `We use digital technology and AI to support business growth through high quality system development`;
 
 export function Background() {
   return (
